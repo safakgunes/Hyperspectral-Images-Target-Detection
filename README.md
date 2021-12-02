@@ -23,4 +23,4 @@ target detection algorithms are compared and the results are compared with ROC c
 and show that MF, CEM and HUD algorithms can achieve high success compared to 
 other algorithms.
 
-![img](https://d3i71xaburhd42.cloudfront.net/17a58a503df9bb1b7b582e1053b356d4c41c04fb/1-Figure1-1.png)
+![img](https://github.com/safakgunes/Hyperspectral-Images-Target-Detection/blob/main/figure.png?raw=true)
